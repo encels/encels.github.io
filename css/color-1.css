@@ -1,0 +1,90 @@
+.site-header-contact a,
+.site-header-contact a:hover,
+.top-section,
+.menu-bar,
+.search-open,
+.about-more a,
+.about-more a:hover,
+.arrow-box,
+.about-social,
+.progress-bar > span,
+.portfolio-content figcaption,
+.portfolio-more a,
+.portfolio-more a:hover,
+.blog-more a,
+.blog-more a:hover,
+.blog-all a,
+.blog-all a:hover,
+.pagination a,
+.pagination a:hover,
+.timeline-time,
+.testimonial-data,
+.pricing-title,
+.pricing-price,
+.pricing-order a,
+.pricing-order a:hover,
+.c-info span:first-of-type,
+.contact-map-btn,
+.contact-form button[type="submit"],
+.footer,
+.back-to-top,
+.back-to-top:hover,
+.comment-form button,
+.comment-form button:hover,
+.single-blog-navigation a,
+.single-blog-navigation a:hover,
+.single-portfolio-share a,
+.single-portfolio-share a:hover,
+.owl-theme .owl-controls .owl-page span{
+    background-color: #0EB57D;
+}
+
+.site-logo a,
+.main-nav ul li a:hover,
+.main-nav ul li a.active-nav,
+.section-title,
+.block-title,
+.blog-title a:hover,
+.blog-data a,
+.pagination a.active,
+.pagination a.active:hover,
+.overview-name span,
+.timeline-badge > a,
+.timeline-title,
+.filter li a:hover,
+.filter li a.active,
+.testimonial-content p::before,
+.testimonial-content p::after,
+.input-field input:focus:not([readonly]) + label,
+.input-field textarea:focus:not([readonly]) + label,
+.comment-data a:hover,
+.comment-reply a,
+.related-post-title a:hover,
+.related-post-author a,
+.archive-content a:hover,
+.category-content a:hover,
+.single-portfolio-rating,
+.color-scheme-select-btn{
+    color: #0EB57D;
+}
+
+blockquote,
+.preloader .spinner-layer,
+.input-field input:focus:not([readonly]),
+.input-field textarea:focus:not([readonly]),
+.color-scheme-select,
+.color-scheme-select-btn{
+    border-color: #0EB57D;
+}
+
+.arrow-box::before,
+.timeline-time::before{
+    border-left-color: #0EB57D;
+}
+
+.input-field input:focus:not([readonly]),
+.input-field textarea:focus:not([readonly]){
+    -webkit-box-shadow: 0 1px 0 0 #0EB57D;
+    -moz-box-shadow: 0 1px 0 0 #0EB57D;
+    box-shadow: 0 1px 0 0 #0EB57D;
+}
