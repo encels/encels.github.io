@@ -407,10 +407,14 @@
 			if (e.isDefaultPrevented()){
 				submitMSG(false, "YOU MUST NOT LEFT ANYTHING EMPTY!");
 			} else{
-				e.preventDefault();
-				submitForm();
+			//	e.preventDefault();
+			//	submitFormReal();
 			}
 		});
+
+		function submitFormReal(){
+			$("#c-form").submit();
+		}
 
 		function submitForm(){
 			var name = $("#name").val();
@@ -419,7 +423,7 @@
 
 			$.ajax({
 				type: "POST",
-				url: "inc/form-process.php",
+				url: "https://formspree.io/encels@gmail.com",
 				data: "name=" + name + "&email=" + email + "&message=" + message,
 				success : function(text){
 					if (text == "success"){

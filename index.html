@@ -5,29 +5,29 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113731405-1"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
 
-      gtag('config', 'UA-113731405-1');
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-113731405-1');
     </script>
-
     <meta name="description" content="Hola, Soy Encel Sánchez, Desarrollador Web en PHP, Tengo más de 8 años trabajando en el desarrollo de sitios web. Mi lenguaje de programación favorito es PHP. Me encanta Internet">
     <meta name="keywords" content="desarrollador web, php,codeigniter,laravel,symfony,venezuela, php developer,wordpress, woocommerce,magento, html, css, javascript, linux, git, scrum, encel sanchez, internet, gobernanza">
     <meta charset="UTF-8">
     <meta name="author" content="Encel Sanchez">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="Encel Sánchez - Desarrollador Web en PHP" />
-	<meta property="og:url" content="https://encels.com/" />
-	<meta property="og:image" content="https://encels.com/img/me.jpg" />
-	<meta property="og:description" content="Hola, Soy Encel Sánchez, Desarrollador Web en PHP con más de 8 años de experiencia" />
-	<meta property="og:type" content="website" />
-	<meta property="fb:app_id" content="708725899516888" />
-	<meta name="twitter:image" content="https://encels.com/img/me.jpg" />
-	<meta name="twitter:description" content="Hola, Soy Encel Sánchez, Desarrollador Web en PHP con más de 8 años de experiencia" />
-	<meta name="twitter:site" content="https://encels.com"/>
-	<meta property="twitter:title" content="Encel Sánchez - Desarrollador Web en PHP" />
-	<link rel="alternate" hreflang="en" href="https://encels.com/index_en.html" />
+    <meta property="og:url" content="https://encels.com/" />
+    <meta property="og:image" content="https://encels.com/img/me.jpg" />
+    <meta property="og:description" content="Hola, Soy Encel Sánchez, Desarrollador Web en PHP con más de 8 años de experiencia" />
+    <meta property="og:type" content="website" />
+    <meta property="fb:app_id" content="708725899516888" />
+    <meta name="twitter:image" content="https://encels.com/img/me.jpg" />
+    <meta name="twitter:description" content="Hola, Soy Encel Sánchez, Desarrollador Web en PHP con más de 8 años de experiencia" />
+    <meta name="twitter:site" content="https://encels.com" />
+    <meta property="twitter:title" content="Encel Sánchez - Desarrollador Web en PHP" />
+    <link rel="alternate" hreflang="en" href="https://encels.com/index_en.html" />
     <title>Encel Sanchez - Desarrollador Web en PHP</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
@@ -77,6 +77,8 @@
                 <li><a href="#" class="skill-section-nav animatescroll-link waves-effect" onclick="$('#skill-section').animatescroll();">Habilidades en Programaci&oacute;n</a></li>
                 <li><a href="#" class="skill-section-nav animatescroll-link waves-effect" onclick="$('#general-skill-section').animatescroll();">Conocimientos Generales</a></li>
                 <li><a href="#" class="education-section-nav animatescroll-link waves-effect" onclick="$('#education-section').animatescroll();">Gobernanza de Internet</a></li>
+                <li><a href="#" class="contact-section-nav animatescroll-link waves-effect" onclick="$('#contact-section').animatescroll();">Contacto</a></li>-->
+
             </ul>
         </nav>
     </header>
@@ -122,7 +124,8 @@
                         <div class="col l7 m6 s12 about-data pd-0">
                             <div class="about-desc pd-30">
                                 <div class="arrow-box">Hola y Bienvenido</div>
-                                <div class="overview-name"><h2>Soy <span>Encel S&aacute;nchez</span></h2></div>
+                                <div class="overview-name">
+                                    <h2>Soy <span>Encel S&aacute;nchez</span></h2></div>
                                 <div class="overview-title">Desarrollador Web en PHP y Adicto a Internet</div>
                                 <div class="overview-data">
                                     <div><span>Edad</span>29</div>
@@ -471,14 +474,53 @@
         </div>
     </section>
     <!--/ Internet Governance Participation Section -->
+    <!-- Contact Section -->
+   
+        <section id="contact-section" class="contact-section">
+            <div class="container">
+                <div class="row">
+                    <div class="section-title">
+                        Contacto
+                    </div>
+                    
+                    <div class="col l12 m12 s12 contact-form pdr-0">
+                        <div class="col s12 w-block z-depth-1 shadow-change pdt-10 pdr-30 pdb-30 pdl-30">
+                            <form id="c-form" class="c-form" action="https://formspree.io/encels@gmail.com" method="post">  
+                                <fieldset>
+                                    <div class="input-field">
+                                        <input id="name" type="text" name="name" class="validate" required>
+                                        <label for="name">Nombre</label>
+                                    </div>
+                                    <div class="input-field">
+                                        <input id="email" type="email" name="email" class="validate" required >
+                                        <label for="email">Correo Electr&oacute;nico</label>
+                                    </div>
+                                    <div class="input-field">
+                                        <textarea id="message" name="message" class="materialize-textarea validate" required></textarea>
+                                        <label for="message">Mensaje</label>
+                                    </div>
+                                    <div>
+                                        <button class="btn waves-effect waves-light" type="submit" name="button">Enviar Mensaje</button>
+                                        <span id="c-form-status" class="hidden"></span>
+                                    </div>
+                                      <input type="hidden" name="_language" value="es" />
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+    <!--/ Contact Section -->
     <!-- Footer Section -->
     <footer class="footer">
         <div class="container">
             <div class="row">
                 <div class="col s12">
                     <a class="btn btn-floating waves-effect waves-light back-to-top animatescroll-link" onclick="$('html').animatescroll();" href="#">
-							<span class="fa fa-angle-up"></span>
-						</a>
+                            <span class="fa fa-angle-up"></span>
+                        </a>
                     <div class="social-links">
                         <a class="waves-effect waves-light" href="https://www.facebook.com/encels" target="_BLANK"><span class="fa fa-facebook"></span></a>
                         <a class="waves-effect waves-light" href="https://twitter.com/encels" target="_BLANK"><span class="fa fa-twitter"></span></a>
@@ -503,7 +545,6 @@
     <script src="js/validator.min.js"></script>
     <script src="js/waypoints.min.js"></script>
     <script src="js/wow.js"></script>
-    <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyA2s8Dc-tOHNpSnwh9YvdH-jcU5Jh1h_UY"></script>
     <script src="js/custom.js"></script>
 </body>
 
