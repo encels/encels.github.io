@@ -29,7 +29,7 @@
     <meta name="twitter:site" content="https://encels.com" />
     <meta name="twitter:card" content="Encel Sánchez"/>        
     <meta property="twitter:title" content="Encel Sánchez - Desarrollador Web en PHP" />
-    <link rel="alternate" hreflang="en" href="https://encels.com/english-version.html" />
+    <link rel="alternate" hreflang="en" href="https://encels.com/english-version.php" />
     <title>Encel Sánchez - Desarrollador Web en PHP</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png" />
@@ -102,7 +102,7 @@
                         <a title="Encel Sánchez" class="btn btn-floating waves-effect waves-light" href="https://github.com/encels" target="_BLANK"><span class="fa fa-github"></span></a>
                     </div>
                     <div class="site-header-contact">
-                        <a title="Encel Sánchez" class="waves-effect waves-light" href="english-version.html"><span class="fa fa-globe"></span> <span>English Version</span></a>
+                        <a title="Encel Sánchez" class="waves-effect waves-light" href="english-version.php"><span class="fa fa-globe"></span> <span>English Version</span></a>
                     </div>
                 </div>
             </div>
@@ -543,7 +543,7 @@
                                         <span id="c-form-status" class="hidden"></span>
                                     </div>
                                       <input type="hidden" name="_language" value="es" />
-                                      <input type="hidden" name="_next" value="//encels.com/index.html" />
+                                      <input type="hidden" name="_next" value="//encels.com/index.php" />
                                 </fieldset>
                             </form>
                         </div>
