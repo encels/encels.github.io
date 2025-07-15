@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.katanoia.payment_app",
+      "sha256_cert_fingerprints": [
+        "23:6A:E6:7C:EF:15:8C:55:32:F4:27:F1:1D:8F:03:BE:40:25:FE:0A:B8:54:B8:35:69:5F:2F:7A:3B:BC:1B:F8"
+      ]
+    }
+  }
+]
