@@ -1,8 +1,8 @@
 # Encel Sánchez
 
-> Software engineer in Tinaco, Cojedes, Venezuela. Remote.
+> Software engineer in Valencia, Venezuela. Remote.
 
-Encel Eduardo Sánchez Veloz builds web applications, CRM integrations and product features that use AI models. Recent work centers on Node.js, React, Zoho CRM, language models and team leadership, which he has strengthened over the last four to five years. He has 18+ years in web systems, including PHP, Laravel, Magento, WordPress and WooCommerce, for teams in Venezuela, the United States, Spain and Chile. He led a development team at Nearsource.
+Encel Eduardo Sánchez Veloz builds web applications, CRM integrations and product features that use AI models. He works with ChatGPT, Claude and Grok, and he programs with Cursor. Recent work also includes Node.js, React, Zoho CRM and team leadership, which he has strengthened over the last four to five years. From January 2022 to January 2025 he was a PHP specialist at ACL on WOM's public site in Chile. He has 18+ years in web systems, including PHP, Laravel, Magento, WordPress and WooCommerce, for teams in Venezuela, the United States, Spain and Chile. He led a development team at Nearsource.
 
 He studied systems engineering at Universidad de los Andes, Mérida (2006–2014). From 2012 to 2018 he was a fellow and Internet Society ambassador at ICANN, LACNIC, the IETF and the Internet Governance Forum.
 
