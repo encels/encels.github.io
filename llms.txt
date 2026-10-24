@@ -1,10 +1,14 @@
 # Encel Sánchez
 
-> Software engineer in Valencia, Venezuela. Remote.
+> Software engineer in Valencia, Venezuela. He works remotely.
 
-Encel Eduardo Sánchez Veloz builds web applications, CRM integrations and product features that use AI models. He works with ChatGPT, Claude and Grok, and he programs with Cursor. Recent work also includes Node.js, React, Zoho CRM and team leadership, which he has strengthened over the last four to five years. From January 2022 to January 2025 he was a PHP specialist at ACL on WOM's public site in Chile. He has 18+ years in web systems, including PHP, Laravel, Magento, WordPress and WooCommerce, for teams in Venezuela, the United States, Spain and Chile. He led a development team at Nearsource.
+Encel Eduardo Sánchez Veloz writes product code from Valencia: React interfaces, Node.js services, Zoho CRM, and language models (ChatGPT, Claude and Grok), using Cursor as his editor. Over the last four or five years he has also set priorities, reviewed the work and kept development and the business on the same page. He was team leader at Nearsource for a year, from June 2016 to June 2017.
 
-He studied systems engineering at Universidad de los Andes, Mérida (2006–2014). From 2012 to 2018 he was a fellow and Internet Society ambassador at ICANN, LACNIC, the IETF and the Internet Governance Forum.
+From January 2022 to January 2025 he was a PHP specialist supplied by ACL on WOM's public site in Santiago, a telecom company. Day to day that was PHP, Laravel, WordPress, MySQL and Git. He built the help center in WordPress, with a custom theme, a feedback form tied to a dashboard and an automated path to production. It reached the first organic Google result, billing calls to the call center dropped by about 8%, and a deploy went from hours to minutes. He also set up lead capture for insurance and assistance, the B2B partnerships page, and mobile internet for businesses, outside the store that was already there.
+
+Before that: Magento at VASS LATAM in Santiago (August 2021–June 2023) and at The Etailers in Spain (June–October 2020); senior software developer at Qaroní in A Coruña (October 2020–October 2021), on Laravel modules and REST APIs; Nearsource in Boca Raton from June 2014 to October 2018, including Symfony, CodeIgniter, WordPress plugins and WooCommerce payment gateways; Katanoia in Venezuela (June 2013–October 2015); CEO of Exprésalo, an SMS web app at expresalo.com.ve (July 2011–July 2015); independent PHP work in Venezuela from 2005 to 2013. More than 18 years in web systems, for teams in Venezuela, the United States, Spain and Chile.
+
+He studied systems engineering at Universidad de los Andes, Mérida (2006–2014). He took the IELTS through EF in October 2023. Spanish is his first language. From 2012 to 2018 he was a fellow and Internet Society ambassador at ICANN, LACNIC, the IETF and the Internet Governance Forum, and a member of ISOC Venezuela, the Youth Observatory and LACNIC's Líderes program.
 
 - Spanish site: https://encels.com/
 - English site: https://encels.com/english-version.html
