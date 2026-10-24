@@ -216,7 +216,7 @@ h1 { font-size: clamp(2.7rem, 6vw, 4.6rem); }
 
 .band-inner {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
   padding: 1rem 0;
 }
@@ -239,7 +239,7 @@ section { scroll-margin-top: calc(var(--header) + 0.8rem); }
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr;
   gap: 1rem;
 }
 
@@ -406,6 +406,10 @@ summary { cursor: pointer; font-weight: 600; }
   display: grid;
   align-content: center;
   padding: 4rem 0;
+}
+
+@media (max-width: 1040px) {
+  .band-inner { grid-template-columns: 1fr 1fr; }
 }
 
 @media (max-width: 860px) {
