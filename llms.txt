@@ -1,0 +1,16 @@
+# Encel Sánchez
+
+> Software engineer in Tinaco, Cojedes, Venezuela. Remote.
+
+Encel Eduardo Sánchez Veloz builds web applications, CRM integrations and product features that use AI models. Recent work centers on Node.js, React, Zoho CRM and language models. He has 18+ years in web systems, including PHP, Laravel, Magento, WordPress and WooCommerce, for teams in Venezuela, the United States, Spain and Chile.
+
+He studied systems engineering at Universidad de los Andes, Mérida (2006–2014). From 2012 to 2018 he was a fellow and Internet Society ambassador at ICANN, LACNIC, the IETF and the Internet Governance Forum.
+
+- Spanish site: https://encels.com/
+- English site: https://encels.com/english-version.html
+- Resume (ES): https://encels.com/files/Encel-Sanchez-CV-es.pdf
+- Resume (EN): https://encels.com/files/Encel-Sanchez-CV-en.pdf
+- LinkedIn: https://www.linkedin.com/in/encels
+- GitHub: https://github.com/encels
+- Email: encels@gmail.com
+- Phone: +58 412 654 0044

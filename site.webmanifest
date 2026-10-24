@@ -1,0 +1,15 @@
+{
+  "name": "Encel Sánchez",
+  "short_name": "Encel Sánchez",
+  "description": "Ingeniero de software. Node.js, React, Zoho CRM y modelos de IA.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#f3efe6",
+  "theme_color": "#1a1714",
+  "lang": "es",
+  "icons": [
+    { "src": "/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

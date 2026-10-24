@@ -1,3 +1,0 @@
-Sitemap: https://encels.com/sitemap.xml
-User-Agent: *
-Disallow: 
